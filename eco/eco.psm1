@@ -1,0 +1,27 @@
+function eco{
+Write-Output "                                                                                   "
+Write-Output "                              ,...............  .                                  "
+Write-Output "                      ,....... ........... ....... .                               "
+Write-Output "                  ................ ........... ...... .  -                         "
+Write-Output "                        ,..... ......______........... .                           "
+Write-Output "              .___________......._______________.... ..                            "
+Write-Output "             ._________________________________....... .                           "
+Write-Output "              ____---___________________________. .....         .                  "
+Write-Output "            .______X----_________________________..... .                           "
+Write-Output "           ._______XXXN----______----___________....... .                     .    "
+Write-Output "           .________VXXi--___-----i@---__________... ...                           "
+Write-Output "             .________MiXI-___--@Ii--__________ .....      .                       "
+Write-Output "                   .___iOX----@M@ . ...______...,, .           .                   "
+Write-Output "                         XXX@Ii, ..... .....,,,  .                                 "
+Write-Output "                        iIXX HHH ., .*****  .            .                         "
+Write-Output "                         i X@@H.., .              .                ,               "
+Write-Output "                        ;XX H@HH. ,,                       .                       "
+Write-Output "                       ,ii X H@H H  ,, .                                           "
+Write-Output "                      ..i @ XX@@@H HH ,.. ,                                        "
+Write-Output "                     ..iiX XX @X@ H@M,, . ,,  .              .                     "
+Write-Output "____________       ..:iiXX  @@X@ @@X MM  ,,.  . ,, .           ________  .______<mm"
+Write-Output "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTnnnnHTTTTTTTTTTTTTTTTTTTTTTTTT"
+Write-Output "                                                                                   "
+Start-Sleep -Milliseconds 2500
+exit
+}

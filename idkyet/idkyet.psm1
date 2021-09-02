@@ -1,0 +1,26 @@
+
+
+function idkyet {
+    Write-Output ""
+    Write-Output "                                             "
+    Write-Output "                                        "
+    Write-Output "                                         oooo        "
+    Write-Output "                                       oooooooo      "
+    Write-Output "                                     oooooooooooo    "
+    Write-Output "                                    iiioooooooo---   "
+    Write-Output "                                    iiiiioooo-----   "
+    Write-Output "                                    iiiiiii-------   "
+    Write-Output "                                      iiiii-----     "
+    Write-Output "                                        iii---       "
+    Write-Output "                                                     "
+    Write-Output "                       -o-"
+    Write-Output "                     -=-"
+    Write-Output "             -mMMMI-=-"
+    Write-Output " .               @@MI"
+    Write-Output "....... .      @@  -MIy"
+    Write-Output "mmmn........ @@..  "
+    Write-Output "MMMMMMmmo, @@........"
+    Write-Output "MMMMMMMMM@@..................."
+    Write-Output "MMMMMMM@@MM----------------------"
+    Write-Output "MMMMMI@MMMMM---------------------------------"
+}

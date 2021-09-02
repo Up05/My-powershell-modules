@@ -1,0 +1,14 @@
+{
+  "name": "imgdecoder",
+  "version": "1.0.0",
+  "description": "My personal nodejs program intended to be used with powershell.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "png-js": "^1.0.0"
+  }
+}
